@@ -1,5 +1,5 @@
 ## Hey There, What's up! Welcome to my Github profile.
-### My name is TIago but you can call me of Meconi if you want!!!
+### My name is Tiago but you can call me of Meconi if you want!!!
 
 - 🔒 I currently work in a Civil Registry company.
 - 💻 I'm currently learn about C# and somethings in Java.
