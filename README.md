@@ -1,7 +1,7 @@
 ## Hey There, What's up! Welcome to my Github profile.
 ### My name is Tiago but you can call me of Meconi if you want!!!
 
-- 🔒 I currently work in a Civil Registry company.
+- 🔒 I currently work in a Startup Company of automation and internet of things.
 - 💻 I'm currently learn about C# and somethings in Java.
 - ⌚ I'm looking to work in a company as a programmer
 - 💬 Ask me anything, if I don't have an answer, I'll go look for it.
