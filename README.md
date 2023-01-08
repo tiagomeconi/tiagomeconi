@@ -2,7 +2,8 @@
 ### My name is Tiago but you can call me of Meconi if you want!!!
 
 - 🔒 I currently work in a Startup Company of automation and internet of things.
-- 💻 I'm currently learn about C# and somethings in Java.
+- 💻 I'm currently learn about HTML and somethings in Java, But I'm know a little about Python, C#.
+- 💻 Now, I'm working with Node Red and Hass(Home Assistant), Two Opensouce softwares.
 - ⌚ I'm looking to work in a company as a programmer
 - 💬 Ask me anything, if I don't have an answer, I'll go look for it.
 - 📫 Call me: tiagomeconi@hotmail.com
@@ -17,7 +18,7 @@
 
   
 <div style="display: inline_block"><br>
-  
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
